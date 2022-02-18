@@ -1,0 +1,6 @@
+Contains All
+(ex. A & B)
+	Not Contain
+		C1
+	C7
+
