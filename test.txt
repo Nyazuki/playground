@@ -1,8 +1,8 @@
 Contains All
 (ex. A & B)
-	Not Contain
-		C1
-	C7
 	Contains All
 		C1
 		C5
+		Not Contain
+			C1
+	C7
